@@ -1,16 +1,18 @@
-# destinyapp
+# Story Teller
 
-A new Flutter project.
+A story telling application which generates stories accoring to the answeres picked up by you.
 
-## Getting Started
+![FJ6QWgdO6o](https://user-images.githubusercontent.com/72740598/232273392-571fe680-269c-438f-bbfb-92c804b7c1b2.gif)
 
-This project is a starting point for a Flutter application.
+## You will find
 
-A few resources to get you started if this is your first Flutter project:
+- OOP concepts in Dart Language
+- Flutter visibility widget
+- If else Ladder
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Check out
+To run the project,
+- First clone the repo
+- Open it in android studio
+- Update the packages and dependencies 
+- run the project in your desired simulator
